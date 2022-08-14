@@ -1,1 +1,1 @@
-.
+This project uses a database of 90,000 URLs, of which 45,000 are phishing scams. By finding patterns in phishing URLs, such as a high number of characters, or certain words like "paypal", this program is able to detect phishing URLs with 88% accuracy.
